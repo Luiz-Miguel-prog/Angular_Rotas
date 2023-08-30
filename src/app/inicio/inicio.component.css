@@ -1,0 +1,14 @@
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 1vh;
+    text-decoration: underline;
+}
+
+p{
+    font-size: 1.8vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+}
